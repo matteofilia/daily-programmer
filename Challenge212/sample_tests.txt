@@ -1,0 +1,13 @@
+Input 1:
+Jag talar Rövarspråket!
+
+Output 1:
+Jojagog totalolaror Rorövovarorsospoproråkoketot!
+
+Input 2:
+I'm speaking Robber's language!
+
+Output 2:
+I'mom sospopeakokinongog Rorobobboberor'sos lolanongoguagoge!
+
+
