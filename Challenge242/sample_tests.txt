@@ -1,0 +1,17 @@
+Input 1:
+15 1
+
+Output 1:
+5
+
+Input 2:
+200 15 
+
+Output 2:
+5
+
+Input 3:
+5000 1
+
+Output 3:
+14
