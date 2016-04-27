@@ -1,0 +1,13 @@
+Hitbox Program
+
+Description:
+Determine whether a line passes through a box.
+
+Input:
+x1 y1 x2 y2 - The coordinates of a line.
+x1 y1 width height - The coordinates of the bottom left corner of the 
+box, and its width and height.
+
+Output:
+0 - If the line does not pass through the box.
+1 - If the line does pass through the box
